@@ -1,0 +1,84 @@
+.navbar {
+  background: #fff;
+}
+
+.navbar-brand {
+  color: #683aa4;
+  font-size: 1.5em;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+nav ul li a {
+  margin: 0 10px;
+  color: #a9a9a9;
+  font-size: 1.25em;
+}
+
+nav ul li a:hover {
+  color: #683aa4;
+}
+
+section {
+  padding: 3.125em 0;
+}
+
+section h2 {
+  margin-bottom: 20px;
+  color: #683aa4;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+section p {
+  font-size: 1em;
+  font-weight: 300;
+}
+
+button {
+  max-width: 50%;
+  border-radius: 50px !important;
+}
+
+#hero .col {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#hero .img-col {
+  margin-top: 100px;
+  justify-content: flex-end;
+}
+
+#hero .card {
+  border: none;
+  box-shadow: 11px 7px 16px #f9f9f9;
+  text-align: center;
+}
+
+#hero .card .icon {
+  height: 50px;
+  width: 50px;
+  margin-bottom: 20px;
+}
+
+#projects .projects {
+  margin-bottom: 50px
+}
+
+#projects .card img {
+  width: 50%;
+  margin: 20px auto;
+}
+
+#contact-us {
+  background-color: #683aa4;
+  color: #fff;
+  text-align: center;
+}
+
+#contact-us h2 {
+  color: #fff;
+  text-align: center;
+}
